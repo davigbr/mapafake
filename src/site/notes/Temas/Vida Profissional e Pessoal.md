@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/vida-profissional-e-pessoal/"}
 ---
 
-<iframe src="https://embed.kumu.io/30956f3a0e2616d9d2893d3e59d58cc0" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/30956f3a0e2616d9d2893d3e59d58cc0" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema não possui nenhum experimento relacionado. 
 
