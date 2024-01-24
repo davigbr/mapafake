@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/experimentos/repositorio-de-acordos/"}
 ---
 
+# Repositório de Acordos
 
 > [!Note] **Momento Atual** 
 > Atualmente, a organização carece de um local centralizado para visualizar suas políticas e papéis. As decisões são tomadas, porém não são documentadas, resultando em uma falta de transparência e acesso às diretrizes e processos internos. Muitos colaboradores sentem-se frustrados devido à falta de visibilidade na governança da organização.
@@ -10,7 +11,7 @@
 > A organização teria um repositório acessível e organizado que permitisse a fácil visualização de suas políticas e papéis. Todas as decisões seriam devidamente registradas, proporcionando total transparência em relação à governança e processos internos. Isso promoveria um ambiente mais aberto e colaborativo, atendendo às expectativas dos colaboradores e fortalecendo a confiança na organização.
 
 Temas: [[Temas/Comunicação interna\|Comunicação interna]], [[Temas/Gestão de mudanças\|Gestão de mudanças]], [[Temas/Tomada de decisão\|Tomada de decisão]]
-## Experimento: Repositório de Acordos
+## Experimento
 
 Este experimento tem como objetivo utilizar a plataforma Notion para criar um repositório centralizado de políticas, processos, papéis e projetos, visando melhorar a transparência e o acesso às informações organizacionais. O Notion permitirá a estruturação e organização eficiente dessas informações.
 ### Hipóteses
