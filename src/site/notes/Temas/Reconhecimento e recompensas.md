@@ -10,7 +10,7 @@ As tensões desse tema abordam questões como aumento de responsabilidades sem a
 
 Isso gera descontentamento, questionamento sobre permanência na empresa, sensação de desvalorização, de injustiça e de estar no escuro sobre expectativas. Também diminui a motivação para colaborar e a confiança nos processos internos.
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Mais responsabilidades sem aumento salarial 
 * Salários defasados frente ao custo de vida
