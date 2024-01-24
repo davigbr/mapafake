@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/carreira-e-crescimento/"}
 ---
 
-<iframe src="https://embed.kumu.io/f660d58fb7518a4545e580c5d048d5db" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/f660d58fb7518a4545e580c5d048d5db" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Distribuição horizontal de remuneração variável\|Distribuição horizontal de remuneração variável]], [[Experimentos/Trilhas de desenvolvimento\|Trilhas de desenvolvimento]] e [[Experimentos/Processo de Aconselhamento\|Processo de Aconselhamento]].
 
