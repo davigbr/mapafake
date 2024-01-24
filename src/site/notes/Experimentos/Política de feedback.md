@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/experimentos/politica-de-feedback/"}
 ---
 
+# Política de feedback
+
 > [!Note] Momento Atual
 > Atualmente os colaboradores não possuem uma estrutura específica ou política que determine como o feedback deve acontecer na organização. Isso pode levar a uma falta de comunicação efetiva e à perda de oportunidades valiosas de melhoria. Sem uma cultura de feedback aberta e transparente, os colaboradores podem se sentir desencorajados a se expressarem livremente.
 
@@ -9,7 +11,7 @@
 >  Que os colaboradores estejam amparados por  um processo bem definido para que possam se expressar livremente e oferecer feedback construtivo e respeitoso. Com uma política de feedback bem estabelecida, os colaboradores se sentirão mais valorizados e engajados em seu trabalho, contribuindo para o desenvolvimento da empresa como um todo.
 
 Temas: [[Temas/Comunicação interna\|Comunicação interna]]
-## Experimento: Política de Feedback Estruturado
+## Experimento
 
 Este experimento tem como objetivo implementar uma política de feedback estruturada, estabelecendo um canal de comunicação específico para o envio de feedback entre áreas, oferecendo treinamentos e capacitações para os colaboradores aprenderem a dar e receber feedback de forma efetiva e  estabelecendo critérios claros para este processo.
 ### Hipóteses
