@@ -10,7 +10,7 @@
 
 Isso resulta em confusão, dificuldade de execução de tarefas, frustração pela falta de oportunidade de manifestação, obstáculos no planejamento do trabalho e sensação de tempo desperdiçado.
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Falta de agenda clara gerando confusão
 * Horários inconvenientes prejudicando participação
