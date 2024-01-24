@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/experimentos/tomada-de-decisao-por-consentimento/"}
 ---
 
+# Tomada de Decisão por Consentimento
+
 > [!Note] **Momento Atual** 
 > Atualmente, as decisões de governança são centralizadas nos gestores, excluindo a participação das equipes nas questões cruciais da organização. Isso resulta em falta de voz para os colaboradores e na resolução insuficiente das tensões organizacionais.
 
@@ -9,7 +11,7 @@
 > As decisões de governança seriam tomadas de forma colaborativa e inclusiva. As pessoas teriam a oportunidade de serem ouvidas, com espaço para expressar suas preocupações e contribuir na elaboração das propostas. Dessa forma, as tensões específicas da organização seriam resolvidas de maneira eficaz, respeitando o tempo de fala de cada indivíduo e fortalecendo a participação ativa de todos na tomada de decisões.
 
 Temas: [[Temas/Reuniões\|Reuniões]] e [[Temas/Tomada de decisão\|Tomada de decisão]]
-## Experimento: Tomada de Decisão por Consentimento
+## Experimento
 
 Este experimento busca aprimorar o processo de Tomada de Decisão por Consentimento, garantindo uma abordagem mais inclusiva e participativa. Durante as reuniões de governança, a pessoa proponente apresenta sua tensão e proposta de acordo (que pode ser um papel ou uma política). Em seguida, as pessoas presentes podem fazer perguntas e reações à proposta. A pessoa proponente tem a oportunidade de ajustar a proposta com base no feedback recebido, retirá-la ou mantê-la inalterada. Em seguida, as pessoas podem levantar objeções seguindo um processo rigoroso para argumentar sobre os danos potenciais causados pela proposta. As objeções só podem ser resolvidas de forma colaborativa. Se as objeções não puderem ser resolvidas, a proposta é considerada "boa o suficiente por agora e segura o suficiente para tentar".
 ### Hipóteses
