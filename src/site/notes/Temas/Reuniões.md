@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/reunioes/"}
 ---
 
-<iframe src="https://embed.kumu.io/0e0adc1875099e698ef7aad3874c0447" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/0e0adc1875099e698ef7aad3874c0447" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Mediador de conflitos\|Mediador de conflitos]], [[Experimentos/Reunião Estruturada\|Reunião Estruturada]], [[Experimentos/Tomada de Decisão por Consentimento\|Tomada de Decisão por Consentimento]].
 
