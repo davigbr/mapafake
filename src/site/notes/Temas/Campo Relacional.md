@@ -10,7 +10,7 @@ As tensões desse tema abordam questões como conflitos frequentes ignorados pel
 
 Isso gera um ambiente tóxico e improdutivo, com comunicação e colaboração prejudicadas.
 
-Pontos-chave:
+**Pontos-chave**:
 
 - Conflitos ignorados perpetuam ambiente tóxico
 - Problemas interpessoais não resolvidos
@@ -19,7 +19,7 @@ Pontos-chave:
 - Conflitos frequentes entre membros da equipe
 - Relações desgastadas e tensas
 - Impacto negativo em desempenho e satisfação
--
+
 > [!TIP] Diagrama Causal
 > O diagrama apresentado a seguir ilustra diversos elementos que atuam como fatores contribuintes para que algumas das tensões relacionadas ao tema **Campo Relacional** permaneçam não resolvidas.
 ## Relações interpessoais tóxicas minando a colaboração
