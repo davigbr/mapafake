@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/tomada-de-decisao/"}
 ---
 
-<iframe src="https://embed.kumu.io/b0e4558ef52906a18d2e37322726a331" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/b0e4558ef52906a18d2e37322726a331" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Tomada de Decisão por Consentimento\|Tomada de Decisão por Consentimento]], [[Experimentos/Reunião Estruturada\|Reunião Estruturada]], [[Experimentos/Repositório de Acordos\|Repositório de Acordos]], [[Experimentos/Papeis e Áreas\|Papeis e Áreas]] e [[Experimentos/Fóruns de Governança\|Fóruns de Governança]].
 
