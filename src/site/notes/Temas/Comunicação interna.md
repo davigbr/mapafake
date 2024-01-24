@@ -9,7 +9,7 @@
 
 Isso gera desconforto, sensação de estar no escuro, atrasos em projetos, retrabalho e falta de alinhamento entre equipes.
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Atrasos em respostas entre departamentos 
 * Informações privilegiadas apenas para gerentes
