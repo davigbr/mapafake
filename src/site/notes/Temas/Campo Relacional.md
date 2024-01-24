@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/campo-relacional/"}
 ---
 
-<iframe src="https://embed.kumu.io/65d3490afd1d9e398661b1fff808998d" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/65d3490afd1d9e398661b1fff808998d" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Rodas de Diálogo\|Rodas de Diálogo]] e [[Experimentos/Mediador de conflitos\|Mediador de conflitos]].
 
