@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/experimentos/foruns-de-governanca/"}
 ---
 
+# Fóruns de Governança
+ 
 > [!Note] **Momento Atual** 
 > Atualmente, a organização não dispõe de reuniões dedicadas à governança. A ausência de governança nas áreas resulta em decisões exclusivamente tomadas pelo RH em relação a políticas e processos organizacionais. A falta de autonomia das áreas para gerir suas próprias questões gera um ambiente de centralização de poder.
 
@@ -9,8 +11,9 @@
 > Na Realidade Desejada, cada área teria a capacidade de realizar sua própria governança dentro dos limites de sua autoridade. Reuniões específicas seriam criadas para permitir tomadas de decisão relacionadas à governança, promovendo a descentralização do poder e tornando as áreas responsáveis pela gestão de políticas e processos organizacionais. Isso resultaria em maior agilidade, responsabilidade e engajamento das equipes.
 
 Temas: [[Temas/Tomada de decisão\|Tomada de decisão]] e [[Temas/Gestão de mudanças\|Gestão de mudanças]]
+
 Esse experimento atua em conjunto com [[Experimentos/Tomada de Decisão por Consentimento\|Tomada de Decisão por Consentimento]] e [[Papéis e Áreas\|Papéis e Áreas]]
-## Experimento: Fóruns de Governança
+## Experimento
 
 Este experimento propõe a criação de uma política que permita a tomada de decisão assíncrona em questões de governança. Além disso, será estabelecida uma reunião quinzenal de governança em cada área, na qual os membros podem propor novos acordos, como políticas, papéis e processos.
 
