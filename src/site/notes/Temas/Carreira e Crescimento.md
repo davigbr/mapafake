@@ -10,7 +10,7 @@
 
 Isso gera sensações de estagnação, subaproveitamento do potencial, questionamento sobre permanência na empresa, desmotivação e falta de perspectivas de crescimento.  
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Falta de investimento em treinamento 
 * Ausência de feedback e orientação
