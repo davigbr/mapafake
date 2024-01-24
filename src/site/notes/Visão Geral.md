@@ -16,8 +16,13 @@ Você pode navegar no mapa percorrendo o diagrama acima, explorando os Temas e E
 
 ## Chatbot
 
-Apenas clique em "Start Chat" abaixo e inicie a conversa com o chatbot. Se preferir pode abrir em nova janela utilizando [este link](https://udify.app/chat/dxsKVNd4uhc2DZkq).
-<iframe src="https://udify.app/chatbot/dxsKVNd4uhc2DZkq" style="width: 100%; height: 600px;" frameborder="0" allow="microphone"> </iframe>
+Apenas clique em "Start Chat" abaixo e inicie a conversa com o chatbot. Se preferir pode abrir em nova janela utilizando [este link](https://udify.app/chat/dxsKVNd4uhc2DZkq). Aqui estão algumas sugestões de perguntas para começar:
+
+* O que as pessoas dizem sobre a liderança?
+* Quais são as tensões mais interconectadas?
+* O que parece estar contribuindo para baixa segurança psicológica?
+
+<iframe src="https://udify.app/chatbot/dxsKVNd4uhc2DZkq" style="width: 100%; height: 400px; margin-top: -50px" frameborder="0" allow="microphone"> </iframe>
 
 ## Temas e Experimentos
 
