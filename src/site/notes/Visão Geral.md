@@ -12,6 +12,7 @@
 
 <iframe src="https://embed.kumu.io/38e15d12af7db835dca4fc786795d701" width="100%" height="600" frameborder="0"></iframe>
 
+
 ## Temas e Experimentos
 
 > [!NOTE] Contexto
@@ -41,4 +42,4 @@
 > * O que as pessoas dizem sobre a liderança?
 > * Quais são as tensões mais interconectadas?
 > * O que parece estar contribuindo para baixa segurança psicológica?
-<iframe src="https://udify.app/chatbot/dxsKVNd4uhc2DZkq" style="width: 100%; height: 400px;" frameborder="0" allow="microphone"> </iframe>
+<iframe src="https://udify.app/chatbot/dxsKVNd4uhc2DZkq" style="width: 100%; height: 800px;" frameborder="0" allow="microphone"> </iframe>
