@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/carga-de-trabalho/"}
 ---
 
-<iframe src="https://embed.kumu.io/bebe47606e668e0f3e1543a40ccf0c65" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/bebe47606e668e0f3e1543a40ccf0c65" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Papeis e Áreas\|Papeis e Áreas]] e [[Experimentos/Gestão à vista\|Gestão à vista]].
 
