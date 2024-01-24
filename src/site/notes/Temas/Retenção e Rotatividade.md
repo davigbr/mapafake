@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/retencao-e-rotatividade/"}
 ---
 
-<iframe src="https://embed.kumu.io/07be64df7e828d0b1c88e78111ab6c3c" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/07be64df7e828d0b1c88e78111ab6c3c" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Distribuição horizontal de remuneração variável\|Distribuição horizontal de remuneração variável]].
 
