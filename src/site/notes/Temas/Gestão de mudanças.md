@@ -10,7 +10,7 @@
 
 Isso gera frustração, resistência, dificuldades de planejamento e adaptação, confusão, atrasos em projetos, estresse, insatisfação e incerteza.
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Mudanças sem consultar funcionários 
 * Falta de comunicação sobre alterações
