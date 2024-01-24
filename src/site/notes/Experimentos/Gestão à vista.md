@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/experimentos/gestao-a-vista/"}
 ---
 
+# Gestão à vista
+
 > [!Note] **Momento Atual**  
 > Atualmente, as pessoas estão sobrecarregadas com uma quantidade elevada de trabalho, o que compromete sua capacidade de se concentrar nas tarefas mais cruciais. Essa sobrecarga é intensificada quando recebem pedidos de outras áreas. Há um desafio em comunicar com eficácia a extensão de suas listas de tarefas para os outros departamentos, tornando difícil justificar a recusa de novos pedidos. Esta situação cria um ambiente de trabalho estressante e a sensação de estar constantemente sob pressão.
 
@@ -9,7 +11,7 @@
 > Deseja-se um ambiente onde a transparência sobre a carga de trabalho de cada pessoa seja clara e acessível a todos. Quando pedidos de outras áreas surgirem, seria ideal ter uma ferramenta ou processo que mostre objetivamente a lista de tarefas e prioridades atuais de cada indivíduo. Isso ajudaria a estabelecer limites claros e a gerenciar melhor as expectativas, permitindo focar nas atividades mais importantes e, quando necessário, utilizar essa clareza como justificativa para negar ou reprogramar novas tarefas.
 
 Temas: [[Temas/Carga de trabalho\|Carga de trabalho]]
-## Experimento: **Transparência de Tarefas com Kanban**
+## Experimento: Gestão à vista
 
 Para resolver a sobrecarga de tarefas e a falta de clareza sobre as prioridades, será implementado um quadro Kanban público. Este quadro mostrará as atividades de cada membro da equipe e suas prioridades. Durante reuniões semanais, o quadro será atualizado e os membros da equipe serão incentivados a fazer atualizações diárias. Quando outras áreas solicitarem novas tarefas, estas serão registradas no quadro e a prioridade será discutida com o solicitante. O gerente terá a responsabilidade de priorizar as tarefas, garantindo uma visibilidade clara da carga de trabalho.
 ### Hipóteses
