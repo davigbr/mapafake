@@ -2,13 +2,20 @@
 {"dg-publish":true,"permalink":"/visao-geral/","pinned":true,"tags":["gardenEntry"]}
 ---
 
-> [!NOTE] Mapa de Tensões
+# Mapa de Tensões
+
+> [!NOTE] Sobre o mapa
 >  
-> Este é um mapa de tensões fictício, criado com o propósito de demonstrar o resultado do processo de investigação qualitativa que a Target Teal realiza em seus clientes. [Mais informações aqui.](https://targetteal.com/pt/mapa-de-tensoes/)
->  
->  Abaixo você pode navegar no mapa para conhecer as narrativas coletadas em nossas entrevistas. Basta passar o cursor do mouse em qualquer elemento e a informação vai aparecer numa janela popup. Visite as páginas de cada tema para ter mais contexto. 
->  
->  **Você também pode utilizar o chatbot no final da página para interagir com o mapa fazendo perguntas.**
+> Este é um mapa de tensões fictício, criado pra te ajudar a visualizar como o mapa se materializará na sua empresa, caso você decida [trabalhar com a Target Teal](https://targetteal.com/pt/mapa-de-tensoes/).
+> 
+> O mapa é composto por narrativas que coletamos em entrevistas individuais e organizado por tema, experimentos e análises.
+>
+> Para navegar é só passar o cursos pelos elementos. Use os sinais + e - aumentar ou diminuir o zoom.
+> 
+> Logo abaixo você pode visitar a página de cada tema e os experimentos para ter mais contexto.
+> 
+> **Você também pode utilizar o chatbot no final da página para interagir com o mapa fazendo perguntas.**
+
 
 <iframe src="https://embed.kumu.io/38e15d12af7db835dca4fc786795d701" width="100%" height="600" frameborder="0"></iframe>
 
