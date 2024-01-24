@@ -10,7 +10,7 @@
 
 Isso resulta em vozes e opiniões ignoradas, limitação da diversidade e inclusão, decisões enviesadas, menos inovação e compreensão limitada de perspectivas diferentes.
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Falta de diversidade na liderança  
 * Contratações focadas em um grupo só
