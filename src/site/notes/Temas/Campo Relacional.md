@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/temas/campo-relacional/"}
 ---
 
+# Campo Relacional
+
 <iframe src="https://embed.kumu.io/65d3490afd1d9e398661b1fff808998d" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Rodas de Diálogo\|Rodas de Diálogo]] e [[Experimentos/Mediador de conflitos\|Mediador de conflitos]].
 
-As tensões desse tema abordam questões como conflitos frequentes ignorados pela liderança, problemas interpessoais não resolvidos adequadamente, falta de incentivo à empatia e apoio mútuo, competição interna por recursos e poder, atritos constantes entre membros de equipe, relações desgastantes e tensas.
-
-Isso gera um ambiente tóxico e improdutivo, com comunicação e colaboração prejudicadas.
+As tensões desse tema abordam questões como conflitos frequentes ignorados pela liderança, problemas interpessoais não resolvidos adequadamente, falta de incentivo à empatia e apoio mútuo, competição interna por recursos e poder, atritos constantes entre membros de equipe, relações desgastantes e tensas. Isso gera um ambiente tóxico e improdutivo, com comunicação e colaboração prejudicadas.
 
 **Pontos-chave**:
 
