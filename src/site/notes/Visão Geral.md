@@ -7,22 +7,10 @@
 > Este é um mapa de tensões fictício, criado com o propósito de demonstrar o resultado do processo de investigação qualitativa que a Target Teal realiza em seus clientes. [Mais informações aqui.](https://targetteal.com/pt/mapa-de-tensoes/)
 >  
 >  Abaixo você pode navegar no mapa para conhecer as narrativas coletadas em nossas entrevistas. Basta passar o cursor do mouse em qualquer elemento e a informação vai aparecer numa janela popup. Visite as páginas de cada tema para ter mais contexto. 
+>  
+>  **Você também pode utilizar o chatbot no final da página para interagir com o mapa fazendo perguntas.**
 
 <iframe src="https://embed.kumu.io/38e15d12af7db835dca4fc786795d701" width="100%" height="600" frameborder="0"></iframe>
-
-## Como navegar no mapa
-
-Você pode navegar no mapa percorrendo o diagrama acima, explorando os Temas e Experimentos listados na tabela mais abaixo, ou utilizando nosso chatbot com Inteligência Artificial que responde perguntas sobre o mapa.
-
-## Chatbot
-
-Apenas clique em "Start Chat" abaixo e inicie a conversa com o chatbot. Se preferir pode abrir em nova janela utilizando [este link](https://udify.app/chat/dxsKVNd4uhc2DZkq). Aqui estão algumas sugestões de perguntas para começar:
-
-* O que as pessoas dizem sobre a liderança?
-* Quais são as tensões mais interconectadas?
-* O que parece estar contribuindo para baixa segurança psicológica?
-
-<iframe src="https://udify.app/chatbot/dxsKVNd4uhc2DZkq" style="width: 100%; height: 400px; margin-top: -100px" frameborder="0" allow="microphone"> </iframe>
 
 ## Temas e Experimentos
 
@@ -44,3 +32,12 @@ Apenas clique em "Start Chat" abaixo e inicie a conversa com o chatbot. Se prefe
 | [[Temas/Vida Profissional e Pessoal\|Vida Profissional e Pessoal]]   | <ul></ul>                                                                                                                                                                                                                                                                                                                                                                                             |
 
 { .block-language-dataview}
+
+## Chatbot
+
+Apenas clique em "Start Chat" abaixo e inicie a conversa com o chatbot. Se preferir pode abrir em nova janela utilizando [este link](https://udify.app/chat/dxsKVNd4uhc2DZkq). Aqui estão algumas sugestões de perguntas para começar:
+
+* O que as pessoas dizem sobre a liderança?
+* Quais são as tensões mais interconectadas?
+* O que parece estar contribuindo para baixa segurança psicológica?
+<iframe src="https://udify.app/chatbot/dxsKVNd4uhc2DZkq" style="width: 100%; height: 400px;" frameborder="0" allow="microphone"> </iframe>
