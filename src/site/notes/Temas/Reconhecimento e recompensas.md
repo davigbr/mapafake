@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/reconhecimento-e-recompensas/"}
 ---
 
-<iframe src="https://embed.kumu.io/53e7e664b3ae624aea8df4636d1eebe1" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/53e7e664b3ae624aea8df4636d1eebe1" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Distribuição horizontal de remuneração variável\|Distribuição horizontal de remuneração variável]], [[Experimentos/Trilhas de desenvolvimento\|Trilhas de desenvolvimento]] e [[Experimentos/Processo de Aconselhamento\|Processo de Aconselhamento]].
 
