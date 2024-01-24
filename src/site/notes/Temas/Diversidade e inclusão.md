@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/temas/diversidade-e-inclusao/"}
 ---
 
-<iframe src="https://embed.kumu.io/df35b2cb097617cb4c2756504e112729" width="940" height="600" frameborder="0"></iframe>
+<iframe src="https://embed.kumu.io/df35b2cb097617cb4c2756504e112729" width="100%" height="600" frameborder="0"></iframe>
 
 🔗 Este tema está ligado ao experimento [[Experimentos/Contratações Afirmativas\|Contratações Afirmativas]].
 
