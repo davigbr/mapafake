@@ -9,14 +9,17 @@
 >  Abaixo você pode navegar no mapa para conhecer as narrativas coletadas em nossas entrevistas. Basta passar o cursor do mouse em qualquer elemento e a informação vai aparecer numa janela popup. Visite as páginas de cada tema para ter mais contexto. 
 
 <iframe src="https://embed.kumu.io/38e15d12af7db835dca4fc786795d701" width="100%" height="600" frameborder="0"></iframe>
-# Como navegar no mapa
+
+## Como navegar no mapa
+
 Você pode navegar no mapa percorrendo o diagrama acima, explorando os Temas e Experimentos listados na tabela mais abaixo, ou utilizando nosso chatbot com Inteligência Artificial que responde perguntas sobre o mapa.
 
-# Chatbot
+## Chatbot
+
 Apenas clique em "Start Chat" abaixo e inicie a conversa com o chatbot. Se preferir pode abrir em nova janela utilizando [este link](https://udify.app/chat/dxsKVNd4uhc2DZkq).
 <iframe src="https://udify.app/chatbot/dxsKVNd4uhc2DZkq" style="width: 100%; height: 600px;" frameborder="0" allow="microphone"> </iframe>
 
-# Temas e Experimentos
+## Temas e Experimentos
 
 > [!NOTE] Contexto
 >  Abaixo estão listados os temas que agrupam as narrativas que encontramos. Para cada tema você tem um ou mais experimentos que propõem intervenções estruturais.
