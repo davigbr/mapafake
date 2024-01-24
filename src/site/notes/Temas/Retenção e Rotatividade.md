@@ -8,7 +8,8 @@
 
 As tensões desse tema abordam questões como alta rotatividade de funcionários, falta de investimento em retenção de talentos e perda de conhecimento valioso. Isso compromete a produtividade, a eficiência dos projetos e a moral da equipe.
 
-Pontos chave:
+**Pontos-chave**:
+
 * Alta rotatividade de colaboradores
 * Falta de ações para reter talentos
 * Perda de conhecimento e experiência
