@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/experimentos/reuniao-estruturada/"}
 ---
 
+# Reunião Estruturada
+
 > [!Note] Momento Atual
 > Atualmente, nossas reuniões carecem de foco e clareza. A ausência de uma pauta bem definida e estruturada tem tornado esses encontros improdutivos e dispersos. Em muitos casos, o número excessivo de participantes sem clara necessidade de estar presente contribui para a diluição das discussões, tornando difícil alcançar conclusões concretas. Esta situação não apenas desperdiça o tempo valioso dos envolvidos, mas também impacta negativamente a tomada de decisões e a eficiência organizacional.
 
@@ -9,7 +11,7 @@
 > As reuniões deveriam ser uma ferramenta eficaz de alinhamento e decisão. Imagine encontros organizados, onde, no início, uma pauta clara e relevante é construída. Esta pauta conduziria as discussões, evitando divagações desnecessárias. Além disso, a presença de um facilitador habilidoso seria essencial para garantir o fluxo, a participação ativa e a efetividade da reunião. O número de participantes seria estrategicamente selecionado, garantindo que apenas aqueles com contribuições significativas estivessem presentes. Esta nova abordagem maximizaria o valor de cada encontro, promovendo decisões mais informadas e eficientes.
 
 Temas: [[Temas/Reuniões\|Reuniões]], [[Temas/Tomada de decisão\|Tomada de decisão]]
-## Experimento: "Reunião Estruturada"
+## Experimento
 
 Baseado na tensão entre reuniões dispersas e a necessidade de maior foco e efetividade, propõe-se um formato de reunião que começa e termina com rodadas de check-in e check-out. Durante o check-in, os participantes, um de cada vez, descrevem como estão chegando à reunião. Após isso, o facilitador solicita que os temas sejam elencados em duas palavras e os anota, vinculando ao nome da pessoa que propôs. A reunião é então conduzida considerando as demandas individuais, engajando todos os presentes. O objetivo é testar esse novo formato com um facilitador eleito de um time específico.
 
