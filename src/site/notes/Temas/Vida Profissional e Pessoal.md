@@ -10,7 +10,7 @@
 
 Isso resulta em sobrecarga, cansaço, estresse, problemas de saúde mental, sensação de falta de apoio, desvalorização, culpa e dificuldade de equilíbrio entre as demandas profissionais e pessoais.
 
-Pontos-chave: 
+**Pontos-chave:** 
 
 * Falta de apoio para equilíbrio trabalho/vida
 * Sem apoio para problemas pessoais  
