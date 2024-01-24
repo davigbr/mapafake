@@ -10,7 +10,7 @@
 
 Isso resulta em confusão, frustração, sensação de não ter sua opinião valorizada, desmotivação, desconfiança e conflitos desnecessários. Limita também oportunidades e contribuições que agregariam valor.  
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Falta de transparência nos motivos 
 * Decisões ignoram opiniões da equipe
