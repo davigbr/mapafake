@@ -10,7 +10,7 @@
 
 Isso gera sensações de descontentamento, ansiedade, afogamento e esgotamento.
 
-Pontos-chave:
+**Pontos-chave**:
 
 * Aumento de trabalho sem aumento salarial
 * Sobrecarga de tarefas
