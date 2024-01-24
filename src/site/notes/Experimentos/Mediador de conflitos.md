@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/experimentos/mediador-de-conflitos/"}
 ---
 
+# Mediador de conflitos
+
 > [!Note] **Momento Atual**:  
 > Os conflitos são uma constante e, frequentemente, são ignorados pela liderança que está sobrecarregada. Esta postura tem alimentado um clima organizacional tóxico, marcado por relações interpessoais tensas e desgastantes. A consequência direta é uma queda no desempenho geral dos colaboradores e uma insatisfação palpável permeando as equipes.
 
