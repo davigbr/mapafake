@@ -25,22 +25,39 @@
 > [!NOTE] Contexto
 >  Abaixo estão listados os temas que agrupam as narrativas que encontramos. Para cada tema você tem um ou mais experimentos que propõem intervenções estruturais.
 
-| Temas                                                                   | Experimentos                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Temas/Campo Relacional\|Campo Relacional]]                         | <ul><li>[[Experimentos/Rodas de Diálogo.md\\|Rodas de Diálogo]]</li><li>[[Experimentos/Mediador de conflitos.md\\|Mediador de conflitos]]</li></ul>                                                                                                                                                                                                                                                   |
-| [[Temas/Comunicação interna\|Comunicação interna]]                   | <ul><li>[[Experimentos/Rodas de Diálogo.md\\|Rodas de Diálogo]]</li><li>[[Experimentos/Processo de Aconselhamento.md\\|Processo de Aconselhamento]]</li><li>[[Experimentos/Papeis e Áreas.md\\|Papeis e Áreas]]</li><li>[[Experimentos/Repositório de Acordos.md\\|Repositório de Acordos]]</li><li>[[Experimentos/Política de feedback.md\\|Política de feedback]]</li></ul>                         |
-| [[Temas/Carga de trabalho\|Carga de trabalho]]                       | <ul><li>[[Experimentos/Papeis e Áreas.md\\|Papeis e Áreas]]</li><li>[[Experimentos/Gestão à vista.md\\|Gestão à vista]]</li></ul>                                                                                                                                                                                                                                                                     |
-| [[Temas/Carreira e Crescimento\|Carreira e Crescimento]]             | <ul><li>[[Experimentos/Distribuição horizontal de remuneração variável.md\\|Distribuição horizontal de remuneração variável]]</li><li>[[Experimentos/Trilhas de desenvolvimento.md\\|Trilhas de desenvolvimento]]</li><li>[[Experimentos/Processo de Aconselhamento.md\\|Processo de Aconselhamento]]</li></ul>                                                                                       |
-| [[Temas/Gestão de mudanças\|Gestão de mudanças]]                     | <ul><li>[[Experimentos/Repositório de Acordos.md\\|Repositório de Acordos]]</li><li>[[Experimentos/Fóruns de Governança.md\\|Fóruns de Governança]]</li></ul>                                                                                                                                                                                                                                         |
-| [[Temas/Diversidade e inclusão\|Diversidade e inclusão]]             | <ul><li>[[Experimentos/Contratações Afirmativas.md\\|Contratações Afirmativas]]</li></ul>                                                                                                                                                                                                                                                                                                             |
-| [[Temas/Reconhecimento e recompensas\|Reconhecimento e recompensas]] | <ul><li>[[Experimentos/Distribuição horizontal de remuneração variável.md\\|Distribuição horizontal de remuneração variável]]</li><li>[[Experimentos/Trilhas de desenvolvimento.md\\|Trilhas de desenvolvimento]]</li><li>[[Experimentos/Processo de Aconselhamento.md\\|Processo de Aconselhamento]]</li></ul>                                                                                       |
-| [[Temas/Reuniões\|Reuniões]]                                         | <ul><li>[[Experimentos/Mediador de conflitos.md\\|Mediador de conflitos]]</li><li>[[Experimentos/Reunião Estruturada.md\\|Reunião Estruturada]]</li><li>[[Experimentos/Tomada de Decisão por Consentimento.md\\|Tomada de Decisão por Consentimento]]</li></ul>                                                                                                                                       |
-| [[Temas/Tomada de decisão\|Tomada de decisão]]                       | <ul><li>[[Experimentos/Tomada de Decisão por Consentimento.md\\|Tomada de Decisão por Consentimento]]</li><li>[[Experimentos/Reunião Estruturada.md\\|Reunião Estruturada]]</li><li>[[Experimentos/Repositório de Acordos.md\\|Repositório de Acordos]]</li><li>[[Experimentos/Papeis e Áreas.md\\|Papeis e Áreas]]</li><li>[[Experimentos/Fóruns de Governança.md\\|Fóruns de Governança]]</li></ul> |
-| [[Temas/Retenção e Rotatividade\|Retenção e Rotatividade]]           | <ul><li>[[Experimentos/Distribuição horizontal de remuneração variável.md\\|Distribuição horizontal de remuneração variável]]</li></ul>                                                                                                                                                                                                                                                               |
-| [[Temas/Vida Profissional e Pessoal\|Vida Profissional e Pessoal]]   | <ul></ul>                                                                                                                                                                                                                                                                                                                                                                                             |
+| Temas                                                                   |
+| ----------------------------------------------------------------------- |
+| [[Temas/Campo Relacional\|Campo Relacional]]                         |
+| [[Temas/Carga de trabalho\|Carga de trabalho]]                       |
+| [[Temas/Comunicação interna\|Comunicação interna]]                   |
+| [[Temas/Carreira e Crescimento\|Carreira e Crescimento]]             |
+| [[Temas/Diversidade e inclusão\|Diversidade e inclusão]]             |
+| [[Temas/Gestão de mudanças\|Gestão de mudanças]]                     |
+| [[Temas/Reconhecimento e recompensas\|Reconhecimento e recompensas]] |
+| [[Temas/Retenção e Rotatividade\|Retenção e Rotatividade]]           |
+| [[Temas/Reuniões\|Reuniões]]                                         |
+| [[Temas/Tomada de decisão\|Tomada de decisão]]                       |
+| [[Temas/Vida Profissional e Pessoal\|Vida Profissional e Pessoal]]   |
 
 { .block-language-dataview}
 
+| Experimentos                                                                                                         |
+| -------------------------------------------------------------------------------------------------------------------- |
+| [[Experimentos/Contratações Afirmativas\|Contratações Afirmativas]]                                               |
+| [[Experimentos/Distribuição horizontal de remuneração variável\|Distribuição horizontal de remuneração variável]] |
+| [[Experimentos/Fóruns de Governança\|Fóruns de Governança]]                                                       |
+| [[Experimentos/Gestão à vista\|Gestão à vista]]                                                                   |
+| [[Experimentos/Papeis e Áreas\|Papeis e Áreas]]                                                                   |
+| [[Experimentos/Mediador de conflitos\|Mediador de conflitos]]                                                     |
+| [[Experimentos/Política de feedback\|Política de feedback]]                                                       |
+| [[Experimentos/Processo de Aconselhamento\|Processo de Aconselhamento]]                                           |
+| [[Experimentos/Repositório de Acordos\|Repositório de Acordos]]                                                   |
+| [[Experimentos/Reunião Estruturada\|Reunião Estruturada]]                                                         |
+| [[Experimentos/Rodas de Diálogo\|Rodas de Diálogo]]                                                               |
+| [[Experimentos/Tomada de Decisão por Consentimento\|Tomada de Decisão por Consentimento]]                         |
+| [[Experimentos/Trilhas de desenvolvimento\|Trilhas de desenvolvimento]]                                           |
+
+{ .block-language-dataview}
 ## Chatbot
 
 > [!NOTE] Como usar
